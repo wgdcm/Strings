@@ -9,7 +9,7 @@ This simple python program provides the same output as the "xxd" utility in the 
     sudo apt-get install python3.6
     
 ### How To Run?
-Run this command in Linux environment.
+Run this command in a Linux environment.
 ```
 python3 xxd.py [file path or name]
 ```
